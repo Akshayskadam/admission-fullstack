@@ -74,7 +74,7 @@ fullstack/
             │── angular.json
             │── package.json
 ```
-<img width="1463" height="1494" alt="image" src="https://github.com/user-attachments/assets/5882b1f9-d33d-412a-813e-ef70e1a36490" />
+<img width="875" height="824" alt="image" src="https://github.com/user-attachments/assets/5f1cbd33-3588-402e-a134-0c9c5abe0bbd" />
 
 ---
 
