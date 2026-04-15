@@ -58,21 +58,8 @@ The system allows student registration, admin login, viewing records, and deleti
 ##  Project Structure
 
 ```
-fullstack/
-│── admission-form/
-    │── backend/
-    │   │── config/
-    │   │── controllers/
-    │   │── models/
-    │   │── routes/
-    │   │── server.js
-    │   │── student.csv
-    │
-    │── frontend/
-        │── admission-frontend/
-            │── src/
-            │── angular.json
-            │── package.json
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/6ee3997f-7951-40e1-909e-17cf28efb4e0" />
+
 ```
 <img width="875" height="824" alt="image" src="https://github.com/user-attachments/assets/5f1cbd33-3588-402e-a134-0c9c5abe0bbd" />
 
